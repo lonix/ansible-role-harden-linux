@@ -1,2 +1,2 @@
 ---
-- include_task: ssh.yml
+- include_tasks: ssh.yml
